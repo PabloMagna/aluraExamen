@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Este repositorio contiene una implementación en JavaScript para la encriptación y desencriptación de texto.
 
 Funcionalidades
@@ -19,3 +20,7 @@ Descripción: Muestra ciertas secciones de la interfaz de usuario y oculta el bo
 Copiar Texto
 Función: copiar
 Descripción: Copia el texto encriptado/desencriptado al portapapeles y muestra una notificación temporal.
+=======
+# aluraExamen
+Examen front de Alura
+>>>>>>> af16f3f98f4c98fdc8c9225aded3480573f550f5
